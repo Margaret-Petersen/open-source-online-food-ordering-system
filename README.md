@@ -391,3 +391,6 @@ Then run:
 ```bash
 eas build --platform ios --profile development
 ```
+
+
+<!-- Fix #104 -->
